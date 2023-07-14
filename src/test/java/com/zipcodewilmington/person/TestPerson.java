@@ -27,7 +27,7 @@ public class TestPerson {
     @Test
     public void testConstructorWithName() {
         // Given
-        String expected = "Leon";
+        String expected = " ";
 
         // When
         Person person = new Person(expected);
